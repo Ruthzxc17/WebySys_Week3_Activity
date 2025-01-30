@@ -1,0 +1,20 @@
+html{
+  font-family: Arial,Sans-Serif;
+  background: gray;
+}
+p{
+  color:Black
+;
+  text-align: center;
+}
+h1{
+  color:light;
+  font-size: 50px;
+  text-align:left;
+}
+img {
+    float: right;
+  }
+  .container {
+    text-align: right;
+  }
